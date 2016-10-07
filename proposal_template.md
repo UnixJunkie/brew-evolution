@@ -1,4 +1,4 @@
-# $FEATURE_NAME
+# xz compressed archives
 ## Introduction
 Use .xz instead of .gz files.
 
